@@ -1,5 +1,5 @@
 {
-    "name": "My first beautiful extension",
+    "name": "Our first extension",
     "version": "1.0",
     "description": "First project to build a fresh chrome extension",
     "manifest_version": 2,
